@@ -10,3 +10,4 @@ import "./style.css";
 
 const root = document.getElementById("app");
 new App(root);
+// ReactDOM.render(<App />, root);
